@@ -1,3 +1,5 @@
+// Given three sorted arrays A, B and C of size N, M and P respectively. 
+// The task is to merge them into a single array which must be sorted in increasing order.
 class Solution{
   public:
     // A, B, and C: input sorted arrays
