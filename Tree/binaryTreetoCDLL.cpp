@@ -20,9 +20,7 @@ class Solution
             prev->right = root;
         }
         
-        prev = root;
-        
-        
+        prev = root;    
         bTreeToCList(root->right);
         if(root->right==NULL)
         {
