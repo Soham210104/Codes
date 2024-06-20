@@ -17,7 +17,7 @@ public:
 	    
 	    sort(arr.begin(),arr.end(),cmp);
 	    
-	    string result = " ";
+	    string result = "";
 	    
 	    
 	    for(string &s : arr){
