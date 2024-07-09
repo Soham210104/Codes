@@ -1,3 +1,4 @@
+class Solution
 {
     public:
     //Function to evaluate a postfix expression.
